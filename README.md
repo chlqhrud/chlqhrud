@@ -1,4 +1,7 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=d8cefc&text=&animation=twinkling&height=150)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=B0DB9C&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=CBKorea's+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=B0DB9C&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+CBKorea's+GitHub!)](https://git.io/typing-svg)
 
 <!--
 **chlqhrud/chlqhrud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
