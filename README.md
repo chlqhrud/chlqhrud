@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=f7e6a9&text=&animation=twinkling&height=120)
-<div align="right">
+![header](https://capsule-render.vercel.app/api?type=waving&color=f7e6a9&height=120&section=header&text=CBKorea's%20GitHub&fontSize=40&fontAlign=90&fontColor=2b2b2b&animation=twinkling)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=40&duration=4000&pause=3&color=B0DB9C&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=CBKorea's+GitHub)](https://git.io/typing-svg)
-</div>  
